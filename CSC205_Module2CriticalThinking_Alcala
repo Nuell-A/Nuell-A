@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T03:11:50.633Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" version="16.6.2" etag="R6X7I0A4iPFqbsB0vwoE" type="github"><diagram id="qzC4Wyu9ubCeouRdwBbM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-28T01:56:07.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="YVBI3nHTNzCIF6m1e2oP" version="16.6.2" type="github">
+  <diagram id="qzC4Wyu9ubCeouRdwBbM" name="Page-1">
+    <mxGraphModel dx="946" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f-UZxhzgl7cb-O2zQchc-1" target="f-UZxhzgl7cb-O2zQchc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f-UZxhzgl7cb-O2zQchc-2" target="f-UZxhzgl7cb-O2zQchc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-2" value="add button to import external database" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f-UZxhzgl7cb-O2zQchc-4" target="f-UZxhzgl7cb-O2zQchc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-4" value="import employeeInfo()" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f-UZxhzgl7cb-O2zQchc-6" target="f-UZxhzgl7cb-O2zQchc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f-UZxhzgl7cb-O2zQchc-6" target="f-UZxhzgl7cb-O2zQchc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-6" value="add text field for employee name from user" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="f-UZxhzgl7cb-O2zQchc-8" target="f-UZxhzgl7cb-O2zQchc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-8" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-b5a494a0-7fff-1c3e-555f-e8851a65b03a&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Input employeeName = (type name of employee)&lt;/span&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f-UZxhzgl7cb-O2zQchc-11" target="f-UZxhzgl7cb-O2zQchc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-11" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-bed4b1e7-7fff-eefc-b6a1-cb7d4eb97c02&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: &amp;quot;times new roman&amp;quot;; color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Add button for getting info from external database&lt;/span&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="f-UZxhzgl7cb-O2zQchc-13" target="f-UZxhzgl7cb-O2zQchc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-13" value="&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-23b8c197-7fff-c518-9b12-d20e671d3c5b&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;employeeInfo = &lt;br&gt;employeeDatabase(getInfo(employeeName))&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="730" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="f-UZxhzgl7cb-O2zQchc-16" target="f-UZxhzgl7cb-O2zQchc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-16" value="output = employeeInfo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f-UZxhzgl7cb-O2zQchc-18" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
