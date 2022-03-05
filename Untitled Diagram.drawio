@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T09:45:17.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" version="16.6.4" etag="mEnWTgNepw2_yZJhS6S9" type="github"><diagram id="XufvQGINvJaCfUCDpow6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-05T09:58:03.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="0HRMf05iNhGz6fho53BF" version="16.6.4" type="github">
+  <diagram id="XufvQGINvJaCfUCDpow6" name="Page-1">
+    <mxGraphModel dx="946" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="800" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="40" width="300" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="390" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="41" width="70" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-6" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="40" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-20" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.075;exitY=0.056;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.003;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pvAZ1jhk0uXYjdBuh66X-6" target="pvAZ1jhk0uXYjdBuh66X-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-21" value="Notes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-22" value="Statement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-23" value="Step" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-25" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-27" value="house&lt;br&gt;keeping()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-30" value="housekeeping() introduces the program and what the user will be doing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="61" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-32" value="prepare&lt;br&gt;Ingredients()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="121" width="70" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-33" value="bakeCookie&lt;br&gt;dough()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-34" value="output = &quot;You have now completed the secret family recipe. Enjoy!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="70" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-36" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-37" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-38" value="Gathers all ingredients prepares them and preps them for the baking process." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="121" width="390" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-39" value="Bakes cookies at 375 for 9 - 12 minutes and lets them cooldown for 2 min" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pvAZ1jhk0uXYjdBuh66X-40" value="Lets the user know that it is the end of the recipe and cookies are ready to be eaten.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="390" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
