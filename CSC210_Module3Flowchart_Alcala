@@ -1,1 +1,193 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T08:01:22.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" version="16.6.4" etag="NcYR9uxHEzqw5vNVnFjQ" type="github"><diagram id="OWZ_w-QdaUsXuxo2Z7Y4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-05T09:10:06.020Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="VP5vRO-gtEOAY3ZJ9-L3" version="16.6.4" type="github">
+  <diagram id="OWZ_w-QdaUsXuxo2Z7Y4" name="Page-1">
+    <mxGraphModel dx="520" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-1" target="ArV0N3yYxBDI09XTKDXW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-2" target="ArV0N3yYxBDI09XTKDXW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-2" value="&lt;font style=&quot;font-size: 11px&quot;&gt;gather all ingredients (&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;¾ cup granulated sugar&lt;/span&gt;&lt;/font&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;¾ cup packed brown sugar&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 cup butter or margarine, softened&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 teaspoon vanilla&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 egg&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;2 ¼ cups Gold Medal™ all-purpose flour&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 teaspoon baking soda&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;½ teaspoon salt&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 cup coarsely chopped nuts&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 package (12 ounces) semisweet chocolate chips (2 cups)&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="160" width="175" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-4" value="Mother" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-5" target="ArV0N3yYxBDI09XTKDXW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-5" value="Mix sugar, butter vanilla, and egg" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-7" target="ArV0N3yYxBDI09XTKDXW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-7" value="Add flour, baking soda, and salt, nuts and chocolate chips" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-9" target="ArV0N3yYxBDI09XTKDXW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-9" value="Done mixing put some of the cookie dough on baking pan" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-11" target="ArV0N3yYxBDI09XTKDXW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-11" value="Put on oven mitts, open oven door and place baking pan in oven" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-13" target="ArV0N3yYxBDI09XTKDXW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-13" value="Close oven door" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-15" target="ArV0N3yYxBDI09XTKDXW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-15" value="bake for 9 - 12 minutes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-17" target="ArV0N3yYxBDI09XTKDXW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-17" value="grab the baking pan and place on counter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-19" value="take oven mitts off, turn off oven, and let cookies cool off for 2 min" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-22" target="ArV0N3yYxBDI09XTKDXW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-22" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="70" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-24" target="ArV0N3yYxBDI09XTKDXW-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-24" value="&lt;font style=&quot;font-size: 11px&quot;&gt;gather all ingredients (&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;¾ cup granulated sugar&lt;/span&gt;&lt;/font&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;¾ cup packed brown sugar&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 cup butter or margarine, softened&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 teaspoon vanilla&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 egg&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;2 ¼ cups Gold Medal™ all-purpose flour&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 teaspoon baking soda&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;½ teaspoon salt&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 cup coarsely chopped nuts&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 package (12 ounces) semisweet chocolate chips (2 cups)&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="175" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-25" value="Grandmother&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-27" target="ArV0N3yYxBDI09XTKDXW-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-27" value="Mix sugar, butter vanilla, and egg" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-29" target="ArV0N3yYxBDI09XTKDXW-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-29" value="Add flour, baking soda, and salt, nuts and chocolate chips" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-31" target="ArV0N3yYxBDI09XTKDXW-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-31" value="Done mixing put some of the cookie dough on baking pan" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-33" target="ArV0N3yYxBDI09XTKDXW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-33" value="Put on oven mitts, open oven door and place baking pan in oven" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-35" target="ArV0N3yYxBDI09XTKDXW-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-35" value="Close oven door" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-37" target="ArV0N3yYxBDI09XTKDXW-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-37" value="bake for 9 - 12 minutes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-39" target="ArV0N3yYxBDI09XTKDXW-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-39" value="grab the baking pan and place on counter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-40" value="take oven mitts off, turn off oven, and let cookies cool off for 2 min" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-42" target="ArV0N3yYxBDI09XTKDXW-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-42" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="70" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-44" target="ArV0N3yYxBDI09XTKDXW-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-44" value="&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;½ cup (113 g) butter&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;½ cup (99 g) granulated sugar&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;¼ cup (54 g) brown sugar packed&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;2 teaspoons vanilla extract&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 large egg&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 ¾ cups (210 g) all-purpose flour*&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;½ teaspoon baking soda&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;½ teaspoon kosher salt&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 cup (170 g) semisweet chocolate chips&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="180" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-45" value="Aunt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-47" target="ArV0N3yYxBDI09XTKDXW-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-47" value="Mix sugar, butter vanilla, and egg" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-49" target="ArV0N3yYxBDI09XTKDXW-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-49" value="Add flour, baking soda, and salt, nuts and chocolate chips" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-51" target="ArV0N3yYxBDI09XTKDXW-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-51" value="Done mixing put some of the cookie dough on baking pan" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-53" target="ArV0N3yYxBDI09XTKDXW-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-53" value="Put on oven mitts, open oven door and place baking pan in oven" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-55" target="ArV0N3yYxBDI09XTKDXW-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-55" value="Close oven door" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-57" target="ArV0N3yYxBDI09XTKDXW-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-57" value="bake for 9 - 12 minutes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ArV0N3yYxBDI09XTKDXW-59" target="ArV0N3yYxBDI09XTKDXW-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-59" value="grab the baking pan and place on counter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-60" value="take oven mitts off, turn off oven, and let cookies cool off for 2 min" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArV0N3yYxBDI09XTKDXW-61" value="&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;2 ¼ cups all-purpose flour&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 teaspoon baking soda&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 teaspoon salt&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 cup (2 sticks) butter, softened&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;¾ cup granulated sugar&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;¾ cup packed brown sugar&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 teaspoon vanilla extract&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;2 large eggs&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;2 cups (12-oz. pkg.) NESTLÉ® TOLL HOUSE® Semi-Sweet Chocolate Morsels&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 12px 0px ; color: rgb(52 , 58 , 63) ; font-family: &amp;#34;lato extended&amp;#34; , &amp;#34;lato&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;1 cup chopped nuts&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="175" height="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
