@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nuell-A
-- 👀 I’m interested in coding, videogames, and lifting!
-- 🌱 I’m most proficient in Python and Java, but I have some knowledge of HTML5 & CSS, JavaScript.
-- 💞️ I’m looking to collaborate on any projects aslong as I have the time. 
+- 👀 Mobile development and scripting.
+- 🌱 I’m most proficient in Python and Java, but I am also familiar with HTML5 & CSS, JavaScript, & PowerShell.
+- 💞️ On mobile development projects. 
 - 📫 You can reach me @alcala.arredondo1@gmail.com
 
 <!---
