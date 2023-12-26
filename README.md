@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nuell-A
-- 👀 Mobile development and scripting.
-- 🌱 I’m most proficient in Python and Java, but I am also familiar with HTML5 & CSS, JavaScript, & PowerShell.
-- 💞️ On mobile development projects. 
+- 👀 Mobile development, web dev and scripting.
+- 🌱 I’m most proficient in Python and Java, but I am also familiar with HTML5 & CSS, & PowerShell.
+- 💞️ Any kind of projects interest me especially mobile and web development. 
 - 📫 You can reach me @alcala.arredondo1@gmail.com
 
 <!---
