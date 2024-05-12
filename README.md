@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nuell-A
-- 👀 Android mobile development and web development.
-- 🌱 I’m most proficient in Python and Java, but I am also slightly familiar with HTML5 & CSS, JavaScript, & PowerShell.
-- 💞️ Willing to collaborate on most projects, especially android mobile and web development. 
+- 🌱 I’m most proficient in Python and Java, comfortable with Flutter/Dart, HTML5 & CSS and SQL, and slightly familiar with JavaScript, & PowerShell.
+- 💞️ Willing to collaborate on most projects, especially mobile and web development. 
 - 📫 You can reach me @alcala.arredondo1@gmail.com
 
 <!---
