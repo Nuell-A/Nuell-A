@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nuell-A
-- 🌱 I’m most proficient in Python (Flask & Django) and Java (Spring Boot), comfortable with Flutter/Dart, HTML5 & CSS and SQL, and slightly familiar with JavaScript, & PowerShell.
-- 💞️ Willing to collaborate on most projects, especially mobile and web development. 
+- Software developer. Experienced in web development with React, Django, Flask, and Spring. Mobile development with Java, Flutter, and React Native. Desktop applications with Java and Python. Lastly, embedded systems with ESP32 boards and Raspberry Pi's using C and Python. 
+- Always open to collaborating on projects together. 
 - 📫 You can reach me @alcala.arredondo1@gmail.com
 
 <!---
